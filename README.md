@@ -29,7 +29,6 @@
 
 ## 📊 Current Status
 
-```text
 🎓 Graduate student / Developer
 📬 Open to collaborations on interesting and creative projects!
 
@@ -40,7 +39,6 @@ Email: a.ghodsimaab2357@example.com
 LinkedIn: https://www.linkedin.com/in/ali-ghodsi-maab-b22651344
 GitHub: https://github.com/AliGhodsiMaab
 
-```
 
 <p align="center"> Thanks for visiting my profile! 😊 </p> 
 
