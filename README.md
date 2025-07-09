@@ -12,7 +12,7 @@
 
 | 🌐 Project | 💬 Description | 🔗 Link |
 |-----------|----------------|--------|
-| 🧠 **Trust Compiler** | A toy language compiler with lexical, syntactic, and semantic analysis + partial C code generation | [View Project]([https://github.com/AliGhodsiMaab/Compiler-Design-Project]) |
+| 🧠 **Trust Compiler** | A toy language compiler with lexical, syntactic, and semantic analysis + partial C code generation | [https://github.com/AliGhodsiMaab/Compiler-Design-Project] |
 ---
 
 ## 🧰 Skills & Tools
@@ -21,9 +21,8 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <im
 </p>
 
 ---
@@ -36,7 +35,7 @@
 
 ---
 
-## 📬 Contact Me
+<p align="center"> 📬 Contact Me </p> 
 Email: a.ghodsimaab2357@example.com
 LinkedIn: https://www.linkedin.com/in/ali-ghodsi-maab-b22651344
 GitHub: https://github.com/AliGhodsiMaab
